@@ -1,10 +1,4 @@
-# DL-S23-FinalProject
-Hi! 
-This is the official repo for the final project of ECE-GY 7123.
-
-Team members:
-
-Anubhav Ghildiyal   ag8766 , Noel Nebu Panicker  nnp5666 , Yogya Sharma        ys5250
+# Image classification on extrusion dataset
 
 ## Introduction
 This project presents our approach to detecting under extrusion errors in 3D printing using Vision Transformers, ResNet50, and BEiT models. Under extrusion is a critical issue in 3D printing, characterized by inadequate plastic flow through the nozzle, resulting in various defects. Through extensive experimentation on a comprehensive dataset, we evaluate the performance of these models in accurately classifying 3D printing images for under extrusion. Our findings contribute to improving quality control in 3D printing processes and advancing computer vision techniques in error detection.
